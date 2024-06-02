@@ -1,10 +1,7 @@
 # [Ciclo Formativo Básico em Tecnologia] Projeto final do módulo de JavaScript:
 
+Este é o projeto de conclusão do módulo de lógica de programação do curso O Poder do Futuro, uma parceria da PretaLab com a Disney.
+Aqui tivemos acesso ao conhecimento de lógica com Javascript: variáveis e constantes, operadores aritméticos e lógicos, estruturas condicionais e de repetição. 
 
-Bem vindas ao repositório do projeto final do módulo de JavaScript.
-
-  1. Faça um fork desse repositório.
-  2. Abra o arquivo `calculadora.js` e siga as instruções para para que as operações básicas passem a ser funcionais.
-  3. Abra o arquivo `media.js` e siga as instruções para para que a soma passe a ser funcional.  
-  4. [obrigatório] Por fim, publique no Netlify!
+Este projetinho tem como intuito demonstrar através da pratica o conhecimento adiquirido.
   
